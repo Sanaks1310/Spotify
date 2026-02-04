@@ -30,6 +30,6 @@ Genre Dominance: Identified which genres maintained the highest average populari
 Audio Features: Explored the correlation between "Danceability" and "Stream Count."
 Top Performers: A ranked list of the most influential artists within the dataset period.
 
-##How to View
+## How to View
 Download the .pbix file from this repository.
 Open it using Power BI Desktop
